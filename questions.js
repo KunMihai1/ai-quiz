@@ -521,7 +521,7 @@ const questions = [
       "We avoid underfitting the model",
       "None of the above"
     ],
-    "correct": "a"
+    "correct": "c"
   },
   {
     "question": "How is the objective of a machine learning algorithm typically represented?",
