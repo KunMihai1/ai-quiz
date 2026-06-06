@@ -8,7 +8,7 @@ const questions = [
       "these limits can't be overcome",
       "increase the number of neurons"
     ],
-    "correct": "ad"
+    "correct": "abd"
   },
   {
     "question": "What problems can be solved with machine learning?",
@@ -38,7 +38,7 @@ const questions = [
       "based on the training data",
       "works bottom-up or top-down"
     ],
-    "correct": "cd"
+    "correct": "c"
   },
   {
     "question": "What is a tensor?",
@@ -241,7 +241,7 @@ const questions = [
       "is the inner product of the input vector with the weight vector",
       "it can be the sigmoid function"
     ],
-    "correct": "ac"
+    "correct": "abc"
   },
   {
     "question": "The indirect experience when choosing the training database is:",
@@ -531,7 +531,7 @@ const questions = [
       "Distributions of probability",
       "A set of non-symbolic rules"
     ],
-    "correct": "b"
+    "correct": "abc"
   },
   {
     "question": "In order to overcome the perceptron's limits, we can:",
@@ -581,7 +581,7 @@ const questions = [
       "It enhances an attribute by integrating a new term that depends on spreading degree.",
       "None of the above."
     ],
-    "correct": "ab"
+    "correct": "abc"
   },
   {
     "question": "We can implement the infinite summation as a sum over a finite number of array elements:",
@@ -1100,12 +1100,12 @@ const questions = [
     "question": "Consider the fuzzy classes described by the following diagram. Compute the membership degree of value 10 to both classes (red and green).",
     "image": "imageQ5.png",
     "answers": [
-      "μ_red(10) = 0.66 and μ_green(10) = 2.85",
+      "μ_red(10) = 0.67 and μ_green(10) = 0.29",
       "μ_red(10) = 0.25 and μ_green(10) = 0.75",
       "μ_red(10) = 2 and μ_green(10) = 0.5",
       "μ_red(10) = 0 and μ_green(10) = 0"
     ],
-    "correct": "d"
+    "correct": "a"
   },
   {
     "question": "In a feed forward Artificial Neural Network there are connections between nodes from the same layer.",
